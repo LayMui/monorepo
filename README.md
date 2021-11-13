@@ -18,5 +18,7 @@ Go to xcode and open food.xcworkspace  at ~/packages/food/ios
 yarn run ios.app
 ```
 
-To run automation (foodie package)
-5. yarn run foodie-ios 
+5. To run automation (foodie package)
+```
+yarn run foodie-ios 
+```
