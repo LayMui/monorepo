@@ -1,0 +1,22 @@
+{
+  "name": "monorepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "food-start": "lerna run start",
+    "food-ios": "lerna run ios",
+    "food-android": "lerna run android",
+    "foodie-ios": "lerna run ios.app",
+    "foodie-android": "lerna run android.app"
+    
+  },
+  "keywords": [
+    "lerna"
+  ],
+  "author": "LayMui",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
